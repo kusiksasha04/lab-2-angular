@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Keyboard",
+      "price": 1200,
+      "category": "Peripherals",
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "title": "Webcam",
+      "price": 1500,
+      "category": "Peripherals",
+      "stock": 4
+    },
+    {
+      "id": 4,
+      "title": "Monitor 24\"",
+      "price": 5200,
+      "category": "Monitors",
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "title": "Monitor 27\"",
+      "price": 7800,
+      "category": "Monitors",
+      "stock": 2
+    },
+    {
+      "id": 6,
+      "title": "Headphones",
+      "price": 2100,
+      "category": "Audio",
+      "stock": 8
+    },
+    {
+      "id": 7,
+      "title": "Speakers",
+      "price": 1700,
+      "category": "Audio",
+      "stock": 6
+    },
+    {
+      "id": 8,
+      "title": "Microphone",
+      "price": 2600,
+      "category": "Audio",
+      "stock": 1
+    }
+  ]
+}
